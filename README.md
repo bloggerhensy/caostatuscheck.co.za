@@ -1,1 +1,1 @@
-# caostatuscheck.co.za
+The Central Applications Office (CAO) is an organization that processes applications for undergraduate courses at universities and colleges in Ireland. It acts as a clearinghouse for applications, allowing prospective students to apply to multiple institutions with one application. The CAO also manages the system of points used to rank applicants for oversubscribed courses in https://caostatuscheck.co.za/
